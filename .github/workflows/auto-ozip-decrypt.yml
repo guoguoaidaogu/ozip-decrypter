@@ -14,8 +14,10 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-  FIRMWARE_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+#  FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+#  FIRMWARE_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  FIRMWARE_LINK: http://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20201231085845/R11s_11_OTA_1190_all_Vv6yB9efD2ry.ozip
+  FIRMWARE_NAME: R11s_11_OTA_1190_all_Vv6yB9efD2ry.ozip
   FIRMWARE_ZIP_NAME: RMX1851EX_11_OTA_1100_all_afysQxXkAd0p
   TZ: Asia/Kolkata
 
